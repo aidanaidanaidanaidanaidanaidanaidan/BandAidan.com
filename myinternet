@@ -8,3 +8,42 @@ https://www.youtube.com/@cosmetifume
 https://www.youtube.com/@folifort4573/featured
 https://www.youtube.com/@spritegoofball
 https://www.tiktok.com/@lemongoofball
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My Youtube History</title>
+    </head>
+    <body>
+        <h1></h1>
+        <h3>LemonGoofball</h3>
+
+        <h1</h1>
+<table>
+  <tr bgcolor="LightBlue">
+    <td><img src="Book Covers/DrivenDistraction.jpg" alt="Book Image" width="50"/></td>
+    <td><a href="https://www.youtube.com/@LemonGoofball">LemonGoofball</a></td>
+    <td>This is my first youtube channel I made. I made it back when I was a young child, in 2012, as Aidinetube. When COVID hit in 2020, I started to post videos based on my awkward humor. I really worked hard back then to
+edit and make the videos 'flow' properly. In recent years, I have been posting experimental posts. This is my central youtube as it was the first channel I created.</td>
+    <td></td>
+  </tr>
+  <tr bgcolor="LightBlue">
+    <td>I read this book because I was diagnosed with ADHD, and I hope it will help me better understand my diagnosis. I thought that the book brought out some 
+    very great points. I really like how it talks about structure improving the regulation of  ADHD symptoms. This book was written in 1995, so they used the term Attention Deficit Disorder instead of Attention Deficit Hyperactivity Disorder.
+  I’m actually curious about the terminology change and plan to research that.</td>
+  </tr>
+ <tr bgcolor="LightBlue">
+      <td><img src="Book Covers/The Last Lecture.jpg" alt="Book Image" width="50"/></td>
+      <td>The Last Lecture</td>
+      <td>Jeffrey Zaslow and Randy Pausch</td>
+      <td>10/30/2024</td>
+</tr>
+<tr bgcolor='lightblue'>
+    <td> This book is about a man who has cancer. This man wanted to leave something for his wife and kids after his death. He was asked to do a lecture at his graduate school, and decided to take  up the mantle.
+    I really do enjoy how this author talked about his life experiences up to the lecture.  It isn't just the lecture. He provides his world-view and upbringing, key moments from his life, lessons learned, and general advice
+    to be a functional human in this world. I also enjoyed how this book had short chapters, which made me finish it quicker than usual. I decided to read this on my kindle with .epub. I read this book  
+    before and after bed which I also enjoyed. I look forward to reading more on my kindle.</td>
+</table>
